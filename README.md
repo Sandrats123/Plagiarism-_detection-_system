@@ -82,11 +82,8 @@ npm run dev  # or yarn dev
 
 # Open in browser
 http://localhost:3000
-![SERVER RUNNING]()
+![SERVER RUNNING](https://github.com/user-attachments/assets/fdb64ee9-b573-4d74-946e-2ac0a8322d1d)
 
-
-
-![Uploading Screenshot 2025-06-26 221042.png…]()
 
  🔁 Project Workflow
 
